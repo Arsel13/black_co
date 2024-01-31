@@ -1,0 +1,45 @@
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f4f5fa;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 32px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.react-tel-input .flag-dropdown {
+  border: none !important;
+}
+
+.react-tel-input .flag-dropdown,
+.react-tel-input .selected-flag:hover,
+.react-tel-input .selected-flag:focus,
+.react-tel-input .flag-dropdown.open .selected-flag {
+  background-color: #f4f7ff !important;
+}
+
+.css-13cymwt-control,
+.css-t3ipsp-control {
+  background: #f4f5fa !important;
+  border: none !important;
+  padding: 5px 8px !important;
+}
+
+.inner .css-13cymwt-control,
+.inner .css-t3ipsp-control {
+  background: white !important;
+  border: none !important;
+  padding: 5px 8px !important;
+}
