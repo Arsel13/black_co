@@ -53,7 +53,11 @@ export default function ContactUs() {
                 </div>
               </div>
               <div>
-                <textarea className="block w-full p-4 text-sm text-gray-900 border border-gray-400 rounded-md bg-gray-50 " cols="30" rows="5"></textarea>
+                <textarea
+                  className="block w-full p-4 text-sm text-gray-900 border border-gray-400 rounded-md bg-gray-50 "
+                  cols="30"
+                  rows="5"
+                ></textarea>
               </div>
               <div className="my-6">
                 <button

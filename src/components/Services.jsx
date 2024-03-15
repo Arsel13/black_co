@@ -3,7 +3,9 @@ import React from "react";
 export default function Services(props) {
   return (
     <div ref={props.refProp} className="w-4/5 md:w-1/2 m-auto py-12">
-      <h1 className="text-3xl md:text-6xl text-themeOrange text-center mb-16">OUR SERVICES</h1>
+      <h1 className="text-3xl md:text-6xl text-themeOrange text-center mb-16">
+        OUR SERVICES
+      </h1>
       <div className="grid md:grid-cols-2 gap-x-10 gap-y-10">
         <div className="text-center space-y-4 p-5 shadow-2xl rounded-xl bg-white">
           <h1 className="text-2xl font-bold">LEASING</h1>
