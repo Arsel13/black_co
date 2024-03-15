@@ -11,10 +11,11 @@ export default function About() {
           Emirates.
         </p>
         <p className="text-sm">
-          <span className="text-themeOrange">BLAC & CO</span>  is committed becoming the brokerage of choice and peruses
-          excellence through dedication and experience. Our Real estate
-          management, our services ensure that our customers re- ceive a fair
-          service with a reasonable time fr.
+          <span className="text-themeOrange">BLAC & CO</span> is committed
+          becoming the brokerage of choice and peruses excellence through
+          dedication and experience. Our Real estate management, our services
+          ensure that our customers re- ceive a fair service with a reasonable
+          time fr.
         </p>
       </div>
       <div className="p-4 flex justify-center">
